@@ -9,13 +9,13 @@
 - HTML5
 - CSS3
 
-👤 **Author1**
+👤 **Tayo**
 
 - Github: [@jstloyal](https://github.com/jstloyal)
 - Twitter: [@jstloyalty](https://twitter.com/jstloyalty)
 - Linkedin: [jstloyalty](https://linkedin.com/jstloyalty)
 
-👤 **Author2**
+👤 **K**
 
 - Github: [@harshdeepkanhai](https://github.com/harshdeepkanhai)
 - Twitter: [@harshdeepkanhai](https://twitter.com/harshdeepkanhai)
